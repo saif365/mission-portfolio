@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    font-size: 15px;
+
+}
+.first-heading{
+    font-size: 45px;
+    border-left: 3px solid;
+    border-image:linear-gradient(salmon,rgb(255, 38, 14));
+    border-image-slice: 1;
+    
+    
+
+
+}
+span{
+    color: orange;
+}
+.main{
+    display: flex;
+    margin: 80px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 5%;
+    font-size: 20px;
+
+}
+.half-width img{
+    width: 70%;
+   
+}
+.btn{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+.card{
+    width: 40%;
+    border: 1px solid rgb(26, 14, 14);
+    border-radius: 15px ;
+    padding-left: 3%;
+    margin:2%;
+    box-shadow: 5px 5px rgb(27, 16, 16);
+
+}
+.card img{
+    width: 40%;
+    padding-right: 3%;
+    
+    
+}
+.mission{
+    text-align: center;
+    font-size: 40px;
+}
+
+.card-color-1{
+    background: rgb(126, 146, 9);
+}
+.card-color-2{
+    background: rgb(3, 158, 137);
+}
+.card-color-3{
+    background: rgb(2, 145, 180);
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: rgb(139, 138, 138);
+    padding: 2%;
+}
+#last{
+    color: cornsilk;
+}
+
+.last-div{
+    width: 20%;
+    padding: 5%;
+    border:1px solid blue;
+    margin: 5%;
+    border-radius: 30px 15px;
+    box-shadow: 10px 7px rgb(209, 245, 151);
+    
+}
